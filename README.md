@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssamlargou" alt="houssamlargou" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning advanced front-end development skills, including responsive design, JavaScript frameworks.**
+- 🌱 I’m currently learning **advanced front-end development skills, including responsive design, JavaScript frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/houssamlargou](https://github.com/houssamlargou)
 
